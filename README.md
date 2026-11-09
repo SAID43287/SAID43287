@@ -8,7 +8,7 @@
 
 🇲🇦 Morocco | 🎓 EMSI
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kerroumi-said?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
