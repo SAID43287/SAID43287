@@ -1,7 +1,12 @@
 
-👋 Hi, I'm Said Kerroumi
+<h1 align="center">
+  👋 Hi, I'm Said Kerroumi
+</h1>
 
-### 🎓 Engineering Student | 🌐 Networks | 🛡️ Cybersecurity | 💻 Development
+<h3 align="center">
+  🎓 Engineering Student | 🌐 Networks | 🛡️ Cybersecurity | 💻 Development
+</h3>
+
 
 🚀 I'm an engineering student at **EMSI – École Marocaine des Sciences de l'Ingénieur**, passionate about IT infrastructure, network engineering, cybersecurity, and software development.
 
